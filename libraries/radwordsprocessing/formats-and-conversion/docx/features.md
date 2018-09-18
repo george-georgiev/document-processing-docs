@@ -311,6 +311,26 @@ Yes
 </td></tr><tr><td>
 
 <b>
+                  Image Resource Relationship
+                </b></td><td></td><td></td></tr><tr><td>
+
+Embedded
+              </td><td>
+
+Yes
+              </td><td>
+
+</td></tr><tr><td>
+
+Linked
+              </td><td>
+
+No
+              </td><td>
+
+</td></tr><tr><td>
+
+<b>
                   Styles
                 </b></td><td></td><td></td></tr><tr><td>
 
